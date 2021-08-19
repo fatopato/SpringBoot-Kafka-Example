@@ -1,6 +1,8 @@
 # SpringBoot Kafka Example
 Kafka example with Spring Boot to track transaction events of the book store.
 
+Read in: [Türkçe](README.tr.md)
+
 # Install the Apache Kafka
 Download the Apache Kafka and extract the files. 
 
